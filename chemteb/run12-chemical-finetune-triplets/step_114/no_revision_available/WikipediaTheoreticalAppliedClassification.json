@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "7896906653d31d7102a143d7f55d67cd688e3147",
+  "task_name": "WikipediaTheoreticalAppliedClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.649135,
+        "f1": 0.646606,
+        "f1_weighted": 0.647227,
+        "ap": 0.570245,
+        "ap_weighted": 0.570245,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.680291,
+            "f1": 0.680116,
+            "f1_weighted": 0.679685,
+            "ap": 0.595138,
+            "ap_weighted": 0.595138
+          },
+          {
+            "accuracy": 0.636761,
+            "f1": 0.635789,
+            "f1_weighted": 0.634705,
+            "ap": 0.560179,
+            "ap_weighted": 0.560179
+          },
+          {
+            "accuracy": 0.702999,
+            "f1": 0.702999,
+            "f1_weighted": 0.703014,
+            "ap": 0.615584,
+            "ap_weighted": 0.615584
+          },
+          {
+            "accuracy": 0.66144,
+            "f1": 0.654456,
+            "f1_weighted": 0.657285,
+            "ap": 0.581594,
+            "ap_weighted": 0.581594
+          },
+          {
+            "accuracy": 0.628792,
+            "f1": 0.627497,
+            "f1_weighted": 0.628762,
+            "ap": 0.552965,
+            "ap_weighted": 0.552965
+          },
+          {
+            "accuracy": 0.654584,
+            "f1": 0.652372,
+            "f1_weighted": 0.650775,
+            "ap": 0.574178,
+            "ap_weighted": 0.574178
+          },
+          {
+            "accuracy": 0.661011,
+            "f1": 0.660914,
+            "f1_weighted": 0.660582,
+            "ap": 0.579065,
+            "ap_weighted": 0.579065
+          },
+          {
+            "accuracy": 0.654156,
+            "f1": 0.65282,
+            "f1_weighted": 0.65406,
+            "ap": 0.573674,
+            "ap_weighted": 0.573674
+          },
+          {
+            "accuracy": 0.608141,
+            "f1": 0.608097,
+            "f1_weighted": 0.608335,
+            "ap": 0.53801,
+            "ap_weighted": 0.53801
+          },
+          {
+            "accuracy": 0.603171,
+            "f1": 0.591001,
+            "f1_weighted": 0.595064,
+            "ap": 0.532065,
+            "ap_weighted": 0.532065
+          }
+        ],
+        "main_score": 0.649135,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 27.427637338638306,
+  "kg_co2_emissions": null
+}

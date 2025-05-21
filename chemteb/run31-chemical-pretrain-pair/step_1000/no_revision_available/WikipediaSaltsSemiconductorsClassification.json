@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "9e5415a096012fa2d1f3a929952cf9859e4550e7",
+  "task_name": "WikipediaSaltsSemiconductorsClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.873737,
+        "f1": 0.873365,
+        "f1_weighted": 0.873338,
+        "ap": 0.839155,
+        "ap_weighted": 0.839155,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.888889,
+            "f1": 0.888844,
+            "f1_weighted": 0.888866,
+            "ap": 0.844623,
+            "ap_weighted": 0.844623
+          },
+          {
+            "accuracy": 0.888889,
+            "f1": 0.888479,
+            "f1_weighted": 0.888411,
+            "ap": 0.87277,
+            "ap_weighted": 0.87277
+          },
+          {
+            "accuracy": 0.878788,
+            "f1": 0.878478,
+            "f1_weighted": 0.878416,
+            "ap": 0.855,
+            "ap_weighted": 0.855
+          },
+          {
+            "accuracy": 0.848485,
+            "f1": 0.847489,
+            "f1_weighted": 0.847364,
+            "ap": 0.825602,
+            "ap_weighted": 0.825602
+          },
+          {
+            "accuracy": 0.89899,
+            "f1": 0.898897,
+            "f1_weighted": 0.898928,
+            "ap": 0.85425,
+            "ap_weighted": 0.85425
+          },
+          {
+            "accuracy": 0.858586,
+            "f1": 0.858224,
+            "f1_weighted": 0.858297,
+            "ap": 0.800505,
+            "ap_weighted": 0.800505
+          },
+          {
+            "accuracy": 0.888889,
+            "f1": 0.888844,
+            "f1_weighted": 0.888866,
+            "ap": 0.844623,
+            "ap_weighted": 0.844623
+          },
+          {
+            "accuracy": 0.888889,
+            "f1": 0.888479,
+            "f1_weighted": 0.888411,
+            "ap": 0.87277,
+            "ap_weighted": 0.87277
+          },
+          {
+            "accuracy": 0.848485,
+            "f1": 0.847489,
+            "f1_weighted": 0.847364,
+            "ap": 0.825602,
+            "ap_weighted": 0.825602
+          },
+          {
+            "accuracy": 0.848485,
+            "f1": 0.848423,
+            "f1_weighted": 0.848454,
+            "ap": 0.795805,
+            "ap_weighted": 0.795805
+          }
+        ],
+        "main_score": 0.873737,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.2439029216766357,
+  "kg_co2_emissions": null
+}

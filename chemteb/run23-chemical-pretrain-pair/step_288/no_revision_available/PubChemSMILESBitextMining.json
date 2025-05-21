@@ -1,0 +1,59 @@
+{
+  "dataset_revision": "36700ea628118312ebf2f90ad2353a9a8f188dc9",
+  "task_name": "PubChemSMILESBitextMining",
+  "mteb_version": "1.36.20",
+  "scores": {
+    "test": [
+      {
+        "precision": 0.000608,
+        "recall": 0.005375,
+        "f1": 0.000837,
+        "accuracy": 0.005375,
+        "main_score": 0.000837,
+        "hf_subset": "iso-title",
+        "languages": [
+          "eng-Latn",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.000685,
+        "recall": 0.004668,
+        "f1": 0.000965,
+        "accuracy": 0.004668,
+        "main_score": 0.000965,
+        "hf_subset": "iso-desc",
+        "languages": [
+          "eng-Latn",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.003496,
+        "recall": 0.013392,
+        "f1": 0.004381,
+        "accuracy": 0.013392,
+        "main_score": 0.004381,
+        "hf_subset": "canon-title",
+        "languages": [
+          "eng-Latn",
+          "eng-Latn"
+        ]
+      },
+      {
+        "precision": 0.003333,
+        "recall": 0.014751,
+        "f1": 0.004526,
+        "accuracy": 0.014751,
+        "main_score": 0.004526,
+        "hf_subset": "canon-desc",
+        "languages": [
+          "eng-Latn",
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 88.052907705307,
+  "kg_co2_emissions": null
+}

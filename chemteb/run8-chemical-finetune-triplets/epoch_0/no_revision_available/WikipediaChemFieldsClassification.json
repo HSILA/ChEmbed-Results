@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "a75fae77759acc115f015f2b856baa47776d733d",
+  "task_name": "WikipediaChemFieldsClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.522386,
+        "f1": 0.45232,
+        "f1_weighted": 0.545781,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.497834,
+            "f1": 0.434668,
+            "f1_weighted": 0.521163
+          },
+          {
+            "accuracy": 0.539515,
+            "f1": 0.468403,
+            "f1_weighted": 0.557993
+          },
+          {
+            "accuracy": 0.558951,
+            "f1": 0.469036,
+            "f1_weighted": 0.580534
+          },
+          {
+            "accuracy": 0.559888,
+            "f1": 0.464795,
+            "f1_weighted": 0.579483
+          },
+          {
+            "accuracy": 0.496663,
+            "f1": 0.428599,
+            "f1_weighted": 0.52553
+          },
+          {
+            "accuracy": 0.529095,
+            "f1": 0.464688,
+            "f1_weighted": 0.561546
+          },
+          {
+            "accuracy": 0.484018,
+            "f1": 0.441783,
+            "f1_weighted": 0.510499
+          },
+          {
+            "accuracy": 0.492097,
+            "f1": 0.441634,
+            "f1_weighted": 0.511657
+          },
+          {
+            "accuracy": 0.521368,
+            "f1": 0.451343,
+            "f1_weighted": 0.547901
+          },
+          {
+            "accuracy": 0.544433,
+            "f1": 0.458249,
+            "f1_weighted": 0.561505
+          }
+        ],
+        "main_score": 0.522386,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 22.21329140663147,
+  "kg_co2_emissions": null
+}

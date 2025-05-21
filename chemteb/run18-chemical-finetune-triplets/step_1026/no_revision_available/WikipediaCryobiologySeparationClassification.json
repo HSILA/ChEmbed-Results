@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "858633e882dadd1ec6a0d220f7549bcafd379236",
+  "task_name": "WikipediaCryobiologySeparationClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.890987,
+        "f1": 0.892123,
+        "f1_weighted": 0.891004,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.901288,
+            "f1": 0.904355,
+            "f1_weighted": 0.901784
+          },
+          {
+            "accuracy": 0.922747,
+            "f1": 0.922419,
+            "f1_weighted": 0.923486
+          },
+          {
+            "accuracy": 0.918455,
+            "f1": 0.918539,
+            "f1_weighted": 0.918398
+          },
+          {
+            "accuracy": 0.871245,
+            "f1": 0.869619,
+            "f1_weighted": 0.868926
+          },
+          {
+            "accuracy": 0.875536,
+            "f1": 0.883217,
+            "f1_weighted": 0.878093
+          },
+          {
+            "accuracy": 0.905579,
+            "f1": 0.90433,
+            "f1_weighted": 0.90479
+          },
+          {
+            "accuracy": 0.927039,
+            "f1": 0.927706,
+            "f1_weighted": 0.926536
+          },
+          {
+            "accuracy": 0.879828,
+            "f1": 0.88455,
+            "f1_weighted": 0.879653
+          },
+          {
+            "accuracy": 0.862661,
+            "f1": 0.864212,
+            "f1_weighted": 0.861273
+          },
+          {
+            "accuracy": 0.845494,
+            "f1": 0.842279,
+            "f1_weighted": 0.847106
+          }
+        ],
+        "main_score": 0.890987,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 1.7702841758728027,
+  "kg_co2_emissions": null
+}

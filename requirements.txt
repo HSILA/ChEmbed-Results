@@ -1,0 +1,4 @@
+mteb==1.36.29
+numpy<2.0.0
+pandas
+matplotlib

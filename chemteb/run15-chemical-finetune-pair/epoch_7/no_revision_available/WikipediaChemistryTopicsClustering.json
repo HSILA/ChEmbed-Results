@@ -1,0 +1,23 @@
+{
+  "dataset_revision": "0a0886b06acbfc735bca6a71b21ce1e5cb92a37b",
+  "task_name": "WikipediaChemistryTopicsClustering",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "v_measure": 0.743104,
+        "v_measure_std": 0.0,
+        "v_measures": [
+          0.743104
+        ],
+        "main_score": 0.743104,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 5.152323246002197,
+  "kg_co2_emissions": null
+}
