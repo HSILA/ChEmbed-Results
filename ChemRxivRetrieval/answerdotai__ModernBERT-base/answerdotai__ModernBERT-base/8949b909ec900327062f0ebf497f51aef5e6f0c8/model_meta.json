@@ -1,1 +1,28 @@
-{"name": "answerdotai/ModernBERT-base", "revision": "8949b909ec900327062f0ebf497f51aef5e6f0c8", "release_date": null, "languages": null, "n_parameters": null, "memory_usage_mb": null, "max_tokens": null, "embed_dim": null, "license": "apache-2.0", "open_weights": true, "public_training_code": null, "public_training_data": null, "framework": ["PyTorch"], "reference": null, "similarity_fn_name": null, "use_instructions": null, "training_datasets": null, "adapted_from": null, "superseded_by": null, "is_cross_encoder": null, "modalities": ["text"], "loader": null}
+{
+  "name": "answerdotai/ModernBERT-base",
+  "revision": "8949b909ec900327062f0ebf497f51aef5e6f0c8",
+  "release_date": null,
+  "languages": null,
+  "n_parameters": null,
+  "memory_usage_mb": null,
+  "max_tokens": null,
+  "embed_dim": 768,
+  "license": "apache-2.0",
+  "open_weights": true,
+  "public_training_code": null,
+  "public_training_data": null,
+  "framework": [
+    "PyTorch"
+  ],
+  "reference": null,
+  "similarity_fn_name": null,
+  "use_instructions": null,
+  "training_datasets": null,
+  "adapted_from": null,
+  "superseded_by": null,
+  "is_cross_encoder": null,
+  "modalities": [
+    "text"
+  ],
+  "loader": null
+}
