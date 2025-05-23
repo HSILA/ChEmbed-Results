@@ -3,7 +3,7 @@
   "revision": "d4aa6901d3a41ba39fb536a557fa166f842b0e09",
   "release_date": null,
   "languages": [],
-  "n_parameters": null,
+  "n_parameters": 335141888,
   "memory_usage_mb": null,
   "max_tokens": null,
   "embed_dim": 1024,
