@@ -1,0 +1,58 @@
+{
+  "dataset_revision": "5037d69d177c9628fb79cb57eea1299178b28c1b",
+  "task_name": "PubChemSynonymPC",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "similarity_accuracy": 0.948242,
+        "similarity_accuracy_threshold": 0.528114,
+        "similarity_f1": 0.666667,
+        "similarity_f1_threshold": 0.528114,
+        "similarity_precision": 0.929825,
+        "similarity_recall": 0.519608,
+        "similarity_ap": 0.642209,
+        "cosine_accuracy": 0.948242,
+        "cosine_accuracy_threshold": 0.528114,
+        "cosine_f1": 0.666667,
+        "cosine_f1_threshold": 0.528114,
+        "cosine_precision": 0.929825,
+        "cosine_recall": 0.519608,
+        "cosine_ap": 0.642209,
+        "manhattan_accuracy": 0.941895,
+        "manhattan_accuracy_threshold": 395.998016,
+        "manhattan_f1": 0.606811,
+        "manhattan_f1_threshold": 412.384125,
+        "manhattan_precision": 0.823529,
+        "manhattan_recall": 0.480392,
+        "manhattan_ap": 0.602574,
+        "euclidean_accuracy": 0.941895,
+        "euclidean_accuracy_threshold": 17.953478,
+        "euclidean_f1": 0.60355,
+        "euclidean_f1_threshold": 18.954166,
+        "euclidean_precision": 0.761194,
+        "euclidean_recall": 0.5,
+        "euclidean_ap": 0.600502,
+        "dot_accuracy": 0.941895,
+        "dot_accuracy_threshold": 236.218384,
+        "dot_f1": 0.61039,
+        "dot_f1_threshold": 227.209061,
+        "dot_precision": 0.903846,
+        "dot_recall": 0.460784,
+        "dot_ap": 0.601369,
+        "max_accuracy": 0.948242,
+        "max_f1": 0.666667,
+        "max_precision": 0.929825,
+        "max_recall": 0.519608,
+        "max_ap": 0.642209,
+        "main_score": 0.642209,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 4.656310558319092,
+  "kg_co2_emissions": null
+}

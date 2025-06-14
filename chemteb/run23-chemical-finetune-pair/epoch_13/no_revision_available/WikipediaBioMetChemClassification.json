@@ -1,0 +1,95 @@
+{
+  "dataset_revision": "6ac491e5de9070c6dd434b31e76d3d379123dcff",
+  "task_name": "WikipediaBioMetChemClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.96188,
+        "f1": 0.961708,
+        "f1_weighted": 0.961845,
+        "ap": 0.943578,
+        "ap_weighted": 0.943578,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.968668,
+            "f1": 0.968555,
+            "f1_weighted": 0.968659,
+            "ap": 0.95275,
+            "ap_weighted": 0.95275
+          },
+          {
+            "accuracy": 0.957354,
+            "f1": 0.957042,
+            "f1_weighted": 0.957243,
+            "ap": 0.946492,
+            "ap_weighted": 0.946492
+          },
+          {
+            "accuracy": 0.960836,
+            "f1": 0.960735,
+            "f1_weighted": 0.960844,
+            "ap": 0.936634,
+            "ap_weighted": 0.936634
+          },
+          {
+            "accuracy": 0.977372,
+            "f1": 0.977285,
+            "f1_weighted": 0.977362,
+            "ap": 0.967192,
+            "ap_weighted": 0.967192
+          },
+          {
+            "accuracy": 0.971279,
+            "f1": 0.971178,
+            "f1_weighted": 0.971272,
+            "ap": 0.956434,
+            "ap_weighted": 0.956434
+          },
+          {
+            "accuracy": 0.94691,
+            "f1": 0.946583,
+            "f1_weighted": 0.946812,
+            "ap": 0.926987,
+            "ap_weighted": 0.926987
+          },
+          {
+            "accuracy": 0.963446,
+            "f1": 0.9634,
+            "f1_weighted": 0.963471,
+            "ap": 0.934693,
+            "ap_weighted": 0.934693
+          },
+          {
+            "accuracy": 0.969539,
+            "f1": 0.969461,
+            "f1_weighted": 0.969545,
+            "ap": 0.949942,
+            "ap_weighted": 0.949942
+          },
+          {
+            "accuracy": 0.94517,
+            "f1": 0.944784,
+            "f1_weighted": 0.945037,
+            "ap": 0.926566,
+            "ap_weighted": 0.926566
+          },
+          {
+            "accuracy": 0.958225,
+            "f1": 0.958055,
+            "f1_weighted": 0.958201,
+            "ap": 0.938089,
+            "ap_weighted": 0.938089
+          }
+        ],
+        "main_score": 0.96188,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 8.00393271446228,
+  "kg_co2_emissions": null
+}

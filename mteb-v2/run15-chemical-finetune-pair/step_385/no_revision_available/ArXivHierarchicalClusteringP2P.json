@@ -1,0 +1,46 @@
+{
+  "dataset_revision": "0bbdb47bcbe3a90093699aefeed338a0f28a7ee8",
+  "task_name": "ArXivHierarchicalClusteringP2P",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.613201,
+            0.510349,
+            0.567919,
+            0.562216,
+            0.50467,
+            0.607033,
+            0.570168,
+            0.521786,
+            0.568125,
+            0.568093
+          ],
+          "Level 1": [
+            0.598557,
+            0.553598,
+            0.585261,
+            0.58511,
+            0.580106,
+            0.604368,
+            0.57606,
+            0.583296,
+            0.582708,
+            0.572177
+          ]
+        },
+        "v_measure": 0.57074,
+        "v_measure_std": 0.02886,
+        "main_score": 0.57074,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 6.626229763031006,
+  "kg_co2_emissions": null
+}

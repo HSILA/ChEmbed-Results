@@ -2,8 +2,10 @@
 Results for the ChemEmbed and its comparison with other models
 
 Our best models so far:
-- **run15-chemical-finetune-pair**: ours (BERT tokenizer)
-- **run16-chemical-finetune-pair**: ours (modified tokenizer)
+- **run15-chemical-finetune-pair**: ChemEmbed (BERT tokenizer)
+- **run24-chemical-finetune-pair**: ChemEmbed (all trainable)
+- **run22-chemical-finetune-pair**: ChemEmbed (unused+rest)
+- **run23-chemical-finetune-pair**: ChemEmbed (progressive)
 
 
 To make plots less crowded, we can consider removing the following models:

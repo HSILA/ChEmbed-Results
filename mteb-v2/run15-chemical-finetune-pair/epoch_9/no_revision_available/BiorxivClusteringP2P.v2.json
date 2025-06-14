@@ -1,0 +1,34 @@
+{
+  "dataset_revision": "f5dbc242e11dd8e24def4c4268607a49e02946dc",
+  "task_name": "BiorxivClusteringP2P.v2",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.385717,
+            0.385604,
+            0.376094,
+            0.355774,
+            0.39289,
+            0.380558,
+            0.369216,
+            0.404122,
+            0.389851,
+            0.401229
+          ]
+        },
+        "v_measure": 0.384106,
+        "v_measure_std": 0.01382,
+        "main_score": 0.384106,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 11.376923322677612,
+  "kg_co2_emissions": null
+}

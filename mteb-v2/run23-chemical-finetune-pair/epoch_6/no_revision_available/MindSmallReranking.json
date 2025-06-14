@@ -1,0 +1,26 @@
+{
+  "dataset_revision": "59042f120c80e8afa9cdbb224f67076cec0fc9a7",
+  "task_name": "MindSmallReranking",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "map": 0.301051,
+        "mrr": 0.31027,
+        "nAUC_map_max": -0.248498,
+        "nAUC_map_std": -0.076166,
+        "nAUC_map_diff1": 0.107056,
+        "nAUC_mrr_max": -0.190125,
+        "nAUC_mrr_std": -0.051077,
+        "nAUC_mrr_diff1": 0.103137,
+        "main_score": 0.301051,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 103.39577603340149,
+  "kg_co2_emissions": null
+}
