@@ -1,0 +1,24 @@
+{
+  "dataset_revision": "cda12ad7615edc362dbf25a00fdd61d3b1eaf93c",
+  "task_name": "SummEvalSummarization.v2",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "pearson": 0.363921,
+        "spearman": 0.319382,
+        "cosine_spearman": 0.319383,
+        "cosine_pearson": 0.363921,
+        "dot_spearman": 0.319383,
+        "dot_pearson": 0.363921,
+        "main_score": 0.319383,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 6.069397926330566,
+  "kg_co2_emissions": null
+}
