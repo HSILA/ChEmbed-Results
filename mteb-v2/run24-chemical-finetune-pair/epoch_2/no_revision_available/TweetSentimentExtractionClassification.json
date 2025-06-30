@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "d604517c81ca91fe16a244d1248fc021f9ecee7a",
+  "task_name": "TweetSentimentExtractionClassification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.60798,
+        "f1": 0.610777,
+        "f1_weighted": 0.602428,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.61064,
+            "f1": 0.612303,
+            "f1_weighted": 0.60139
+          },
+          {
+            "accuracy": 0.606678,
+            "f1": 0.608956,
+            "f1_weighted": 0.597607
+          },
+          {
+            "accuracy": 0.621958,
+            "f1": 0.625782,
+            "f1_weighted": 0.619034
+          },
+          {
+            "accuracy": 0.623373,
+            "f1": 0.627374,
+            "f1_weighted": 0.619528
+          },
+          {
+            "accuracy": 0.635823,
+            "f1": 0.639946,
+            "f1_weighted": 0.63487
+          },
+          {
+            "accuracy": 0.627051,
+            "f1": 0.630741,
+            "f1_weighted": 0.624202
+          },
+          {
+            "accuracy": 0.576967,
+            "f1": 0.575251,
+            "f1_weighted": 0.567927
+          },
+          {
+            "accuracy": 0.620543,
+            "f1": 0.623329,
+            "f1_weighted": 0.615347
+          },
+          {
+            "accuracy": 0.560272,
+            "f1": 0.561669,
+            "f1_weighted": 0.549816
+          },
+          {
+            "accuracy": 0.596491,
+            "f1": 0.602418,
+            "f1_weighted": 0.594555
+          }
+        ],
+        "main_score": 0.60798,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 11.373145341873169,
+  "kg_co2_emissions": null
+}

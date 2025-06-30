@@ -1,0 +1,46 @@
+{
+  "dataset_revision": "b73bd54100e5abfa6e3a23dcafb46fe4d2438dc3",
+  "task_name": "ArXivHierarchicalClusteringS2S",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "v_measures": {
+          "Level 0": [
+            0.469037,
+            0.489057,
+            0.469285,
+            0.524636,
+            0.5123,
+            0.492853,
+            0.482666,
+            0.546161,
+            0.444236,
+            0.536219
+          ],
+          "Level 1": [
+            0.597871,
+            0.560873,
+            0.567763,
+            0.607561,
+            0.561542,
+            0.608288,
+            0.55991,
+            0.618092,
+            0.556479,
+            0.600294
+          ]
+        },
+        "v_measure": 0.540256,
+        "v_measure_std": 0.051486,
+        "main_score": 0.540256,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 6.942397594451904,
+  "kg_co2_emissions": null
+}
