@@ -1,0 +1,73 @@
+{
+  "dataset_revision": "0fd18e25b25c072e09e0d92ab615fda904d66300",
+  "task_name": "Banking77Classification",
+  "mteb_version": "1.36.29",
+  "scores": {
+    "test": [
+      {
+        "accuracy": 0.840714,
+        "f1": 0.840172,
+        "f1_weighted": 0.840172,
+        "scores_per_experiment": [
+          {
+            "accuracy": 0.846753,
+            "f1": 0.844891,
+            "f1_weighted": 0.844891
+          },
+          {
+            "accuracy": 0.837338,
+            "f1": 0.837552,
+            "f1_weighted": 0.837552
+          },
+          {
+            "accuracy": 0.847727,
+            "f1": 0.847714,
+            "f1_weighted": 0.847714
+          },
+          {
+            "accuracy": 0.845779,
+            "f1": 0.846144,
+            "f1_weighted": 0.846144
+          },
+          {
+            "accuracy": 0.843831,
+            "f1": 0.84395,
+            "f1_weighted": 0.84395
+          },
+          {
+            "accuracy": 0.827273,
+            "f1": 0.826521,
+            "f1_weighted": 0.826521
+          },
+          {
+            "accuracy": 0.833766,
+            "f1": 0.832675,
+            "f1_weighted": 0.832675
+          },
+          {
+            "accuracy": 0.830844,
+            "f1": 0.829369,
+            "f1_weighted": 0.829369
+          },
+          {
+            "accuracy": 0.85487,
+            "f1": 0.85443,
+            "f1_weighted": 0.85443
+          },
+          {
+            "accuracy": 0.838961,
+            "f1": 0.838472,
+            "f1_weighted": 0.838472
+          }
+        ],
+        "main_score": 0.840714,
+        "hf_subset": "default",
+        "languages": [
+          "eng-Latn"
+        ]
+      }
+    ]
+  },
+  "evaluation_time": 16.026565313339233,
+  "kg_co2_emissions": null
+}
