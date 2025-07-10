@@ -5,15 +5,15 @@
   "scores": {
     "test": [
       {
-        "map": 0.300074,
-        "mrr": 0.309298,
-        "nAUC_map_max": -0.235652,
-        "nAUC_map_std": -0.072684,
-        "nAUC_map_diff1": 0.10964,
-        "nAUC_mrr_max": -0.17793,
-        "nAUC_mrr_std": -0.048996,
-        "nAUC_mrr_diff1": 0.105098,
-        "main_score": 0.300074,
+        "map": 0.299125,
+        "mrr": 0.307777,
+        "nAUC_map_max": -0.252683,
+        "nAUC_map_std": -0.091059,
+        "nAUC_map_diff1": 0.088656,
+        "nAUC_mrr_max": -0.195013,
+        "nAUC_mrr_std": -0.063935,
+        "nAUC_mrr_diff1": 0.086407,
+        "main_score": 0.299125,
         "hf_subset": "default",
         "languages": [
           "eng-Latn"
@@ -21,6 +21,6 @@
       }
     ]
   },
-  "evaluation_time": 102.07073187828064,
+  "evaluation_time": 101.30287766456604,
   "kg_co2_emissions": null
 }

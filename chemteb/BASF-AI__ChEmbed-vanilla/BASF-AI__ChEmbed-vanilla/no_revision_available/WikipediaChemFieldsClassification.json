@@ -5,62 +5,62 @@
   "scores": {
     "test": [
       {
-        "accuracy": 0.485271,
-        "f1": 0.423947,
-        "f1_weighted": 0.50915,
+        "accuracy": 0.419998,
+        "f1": 0.373169,
+        "f1_weighted": 0.442828,
         "scores_per_experiment": [
           {
-            "accuracy": 0.462592,
-            "f1": 0.406357,
-            "f1_weighted": 0.484249
+            "accuracy": 0.412598,
+            "f1": 0.35732,
+            "f1_weighted": 0.435433
           },
           {
-            "accuracy": 0.486477,
-            "f1": 0.424549,
-            "f1_weighted": 0.507773
+            "accuracy": 0.424775,
+            "f1": 0.373468,
+            "f1_weighted": 0.446873
           },
           {
-            "accuracy": 0.5305,
-            "f1": 0.453954,
-            "f1_weighted": 0.553213
+            "accuracy": 0.47231,
+            "f1": 0.408731,
+            "f1_weighted": 0.495391
           },
           {
-            "accuracy": 0.518909,
-            "f1": 0.435006,
-            "f1_weighted": 0.539618
+            "accuracy": 0.440229,
+            "f1": 0.37889,
+            "f1_weighted": 0.468147
           },
           {
-            "accuracy": 0.468095,
-            "f1": 0.404056,
-            "f1_weighted": 0.495906
+            "accuracy": 0.396558,
+            "f1": 0.352941,
+            "f1_weighted": 0.420915
           },
           {
-            "accuracy": 0.502166,
-            "f1": 0.443784,
-            "f1_weighted": 0.534793
+            "accuracy": 0.432619,
+            "f1": 0.386832,
+            "f1_weighted": 0.463196
           },
           {
-            "accuracy": 0.456036,
-            "f1": 0.419454,
-            "f1_weighted": 0.481029
+            "accuracy": 0.38122,
+            "f1": 0.357941,
+            "f1_weighted": 0.39796
           },
           {
-            "accuracy": 0.442454,
-            "f1": 0.407006,
-            "f1_weighted": 0.457335
+            "accuracy": 0.384498,
+            "f1": 0.35813,
+            "f1_weighted": 0.393686
           },
           {
-            "accuracy": 0.476876,
-            "f1": 0.415256,
-            "f1_weighted": 0.503426
+            "accuracy": 0.410608,
+            "f1": 0.369926,
+            "f1_weighted": 0.435177
           },
           {
-            "accuracy": 0.508606,
-            "f1": 0.43005,
-            "f1_weighted": 0.534158
+            "accuracy": 0.444562,
+            "f1": 0.387507,
+            "f1_weighted": 0.4715
           }
         ],
-        "main_score": 0.485271,
+        "main_score": 0.419998,
         "hf_subset": "default",
         "languages": [
           "eng-Latn"
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "evaluation_time": 48.773024797439575,
+  "evaluation_time": 48.70648646354675,
   "kg_co2_emissions": null
 }
